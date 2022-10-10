@@ -1,5 +1,5 @@
 ## Background:
-This respiratory illustrates the examples of my PhD research project entitled "Sensor Failure\'97Tolerant Observer Design with Regional Pole Placement," which was published in [IEEE Control Systems Letters 2021](https://ieeexplore.ieee.org/document/9662057) and accepted for presentation at the 2022 American Control Conference.
+This respiratory illustrates the examples of my PhD research project entitled "Sensor Failure Tolerant Observer Design with Regional Pole Placement," which was published in [IEEE Control Systems Letters 2021](https://ieeexplore.ieee.org/document/9662057) and accepted for presentation at the 2022 American Control Conference.
 
 ## Examples:
 1. 4th Order Nodic
